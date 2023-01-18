@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_pahilz26' //Link Instagrammu
-global.sgh = 'https://github.com/amelcanss' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
+global.sig = 'https://instagram.com/ikky' //Link Instagrammu
+global.sgh = 'https://github.com/Ikky6677' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/apa liat liat'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677' //Nomor Danamu
-global.ppulsa = '087833306677' //Xl
-global.psaweria = 'https://saweria.com/amelcanss' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '6283150688326' //Nomor Danamu
+global.ppulsa = '6283150688326' //Xl
+global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287852161042' //Nomor Bot
-global.nomorown = '087833306677' //Nomor Owner
-global.namebot = 'FAHIL BOTz' //Nama Bot
-global.nameown = 'fahil' // Nama Owner
+global.nomorbot = '6283845834387' //Nomor Bot
+global.nomorown = '6283150688326' //Nomor Owner
+global.namebot = 'RizkyBotz' //Nama Bot
+global.nameown = 'Rizky' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', '❦ fahil 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6283150688326','Rizky', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,12 +99,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FAHIL BOTZ 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FAHIL BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'FAHIL BOTZ'
+global.wm = '                「 Rizky BOTZ 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rizky BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'Rizky BOTZ'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = 'By Fahil'
+global.titlebot = 'By Rizky'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
@@ -371,9 +371,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nF\na\nh\ni\nl\n\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'By Fahil'
-global.packname2 = 'Ig : _pahilz26'
+global.stickauth = `☂︎\nR\ni\nz\nk\ny\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.packname = 'By Rizky'
+global.packname2 = 'Ig : _Ikky_'
 
 global.multiplier = 38 // The higher, The harder levelup
 
